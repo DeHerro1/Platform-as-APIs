@@ -7,6 +7,10 @@ node_modules
 .data
 .nitro
 .cache
+dist
+server
+nitro.json
+public/_nuxt
 
 # Logs
 *.log
