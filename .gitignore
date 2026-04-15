@@ -10,7 +10,7 @@ node_modules
 dist
 server
 nitro.json
-public/_nuxt
+public
 
 # Logs
 *.log
